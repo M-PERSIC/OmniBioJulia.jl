@@ -26,7 +26,7 @@ docs/site/
 .DS_Store
 
 # Visual Studio files
-.vscode/*
+.vscode/
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
