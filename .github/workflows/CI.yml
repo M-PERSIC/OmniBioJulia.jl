@@ -57,6 +57,6 @@ jobs:
       - run: |
           julia --project=docs -e '
             using Documenter: DocMeta, doctest
-            using OmniBio
-            DocMeta.setdocmeta!(OmniBio, :DocTestSetup, :(using OmniBio); recursive=true)
-            doctest(OmniBio)'
+            using OmniBioJulia
+            DocMeta.setdocmeta!(OmniBioJulia, :DocTestSetup, :(using OmniBioJulia); recursive=true)
+            doctest(OmniBioJulia)'

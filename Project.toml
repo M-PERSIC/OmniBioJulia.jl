@@ -1,4 +1,4 @@
-name = "OmniBio"
+name = "OmniBioJulia"
 uuid = "6654096a-4fe5-4b1a-87db-81e4fe22eb33"
 authors = ["Michael Persico <michael.a.persico@gmail.com> and contributors"]
 version = "0.1.0"
